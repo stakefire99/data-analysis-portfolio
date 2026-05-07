@@ -20,7 +20,7 @@ A professional portfolio of 5 complete data analysis projects across different d
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/data-analysis-portfolio.git
+git clone https://github.com/stakefire99/data-analysis-portfolio.git
 cd data-analysis-portfolio
 ```
 
@@ -98,5 +98,4 @@ data_analysis_portfolio/
 
 ## 👤 Author
 
-**Your Name**  
-[GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+Lakshita 
